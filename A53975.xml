@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God's call to unconverted sinners to turn to the Lord Plainly shewing every poore sinner the miserableness of his estate, and how great an enermy he is to himself; that though the Lord be daily calling him, to turn and live, and professeth he deights not in the death of a sinner; yet for all this he will go and die. Allso [sic] the happy condition of the people of God, in that they have such a Father that had rather see their conversion, then condemnation. And lastly, to the terror of wicked and ungodly men is set forth: that if they will not turn to God that they may live with him in Heaven, they shall dye, and b: [sic] tormented with the Devil and his angels in hell fire. By T.P.</title>
+            <author>T. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53975</idno>
+            <idno type="STC">Wing P109B</idno>
+            <idno type="STC">ESTC R217460</idno>
+            <idno type="EEBO-CITATION">99829125</idno>
+            <idno type="PROQUEST">99829125</idno>
+            <idno type="VID">33561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1974:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God's call to unconverted sinners to turn to the Lord Plainly shewing every poore sinner the miserableness of his estate, and how great an enermy he is to himself; that though the Lord be daily calling him, to turn and live, and professeth he deights not in the death of a sinner; yet for all this he will go and die. Allso [sic] the happy condition of the people of God, in that they have such a Father that had rather see their conversion, then condemnation. And lastly, to the terror of wicked and ungodly men is set forth: that if they will not turn to God that they may live with him in Heaven, they shall dye, and b: [sic] tormented with the Devil and his angels in hell fire. By T.P.</title>
+                  <author>T. P.</author>
+               </titleStmt>
+               <extent>22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles Tyus. at the three Bibles on London Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33561:1"/>
+            <pb facs="tcp:33561:1"/>
+            <p>Gods Call to Unconverted SINNERS To turn to the Lord.</p>
+            <p>Plainly ſhewing every poore Sinner the miſerableneſs of his eſtate, and how great an enemy he is to himſelf; that though the Lord be daily calling him, to turn and live, and profeſſeth he delights not in the death of a ſinner, yet for all this he will go and die.</p>
+            <p>ALL SO The Happy Condition of the People of God, in that they have ſuch a Father that had rather ſee their Converſion, then Condemnation.</p>
+            <p>And laſtly, to the Terror of Wicked and Ungodly men is ſet forth: That if they will not turn to God that they may live with him in Heaven, they ſhall dye, and be tor<g ref="char:EOLhyphen"/>mented with the Devil and his angels in hell fire. Matth. 18.3. <hi>Except you be converted, and become as little children, you ſhall in no wiſe enter into the kingdom of heaven.</hi>
+            </p>
+            <p>By T. P.</p>
+            <p>Printed for <hi>Charles Tyus.</hi> at the three Bibles on London Bridge. 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33561:2"/>
+            <pb facs="tcp:33561:2" rendition="simple:additions"/>
+            <head>Gods Call to Unconverted SINNERS.</head>
+            <epigraph>
+               <bibl>Ezek. the 3. Chap. 11. verſe.</bibl>
+               <q>Say unto them, as I live ſaith the Lord God, I have no pleaſure in the death of the wicked, but that he turn from his evill way and live; turn ye, turn ye from your evill wayes, for why will you dye O houſe of <hi>Iſrael!</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Great God that made the Heaven and Earth, and all the living Creatures therein, and hath Redéemed you by his Son Chriſt Ieſus; You that were loſt and undone ſinners, to you hath he ſent his Goſpel, the glad tydings of peace, and to you hath he given this priviledge, <hi>that as many as believe on him ſhall have eternal life;</hi> as many as turn to him ſhall live, and thoſe that turn not, ſhall dye. This is the unchangeable will and Law of God, that
+<pb n="4" facs="tcp:33561:3"/>wicked men muſt turn or dye. For ſée the very words of Chriſt <hi>Matth. 18.3. Verily I ſay unto you, except you be converted, and become as little Children, ye cannot enter into the Kingdom of heaven.</hi> And <hi>John 3.3. Without holineſſe no man ſhall ſee the Lord.</hi> And in the <hi>11. Pſal. ver. 5. The Lord loveth the Righteous, but the wicked his ſoul hateth.</hi> So that it is brought to this, that wicked men muſt turn or dye.</p>
+            <p n="1">
+               <hi>1.</hi> From which words you muſt obſerve, Firſt The pitty and love of Ood to loſt un<g ref="char:EOLhyphen"/>done ſoules; that he condeſcends to reaſon the caſe with them thus, <hi>Why will you dye?</hi> That the Almighty and powerful God ſhould ſtoop to duſt and aſhes; Marein is his great love ſhown; <hi>That he delighteth not in the death of a ſinner, but rather that he would turn and live.</hi> God would not have them go in the way that leads to Hell, but calls to them daily by the mouth of his Prophets, <hi>to turn and live;</hi> and tells them, <hi>there is no peace to the wicked, Iſa 48.11. Iſa. 37.21.</hi> God tells them, <hi>the love of the world is en<g ref="char:EOLhyphen"/>mity with God, and if any man love the world, the love of the Father is not in him.</hi> Yet for all this, worldly they are, and world<g ref="char:EOLhyphen"/>ly they will he: If the way to hell be through the world, then to hell they will go.</p>
+            <pb n="5" facs="tcp:33561:3"/>
+            <p> Oh that men would ſhe the folly of their own wayes, and turn to the Lord! Then ſhould they ſée the Lovelineſs and Beauty that is in the wayes of God; and the Tor<g ref="char:EOLhyphen"/>ment and Anguiſh that follows the love of the World! Oh that wicked men would thus converſe with their own ſoules! Is it ſo, <hi>that I muſt turn or dye, muſt be convert<g ref="char:EOLhyphen"/>ed, or condemned?</hi> 'Its time for me then to look about me; how have I fooliſhly den<g ref="char:EOLhyphen"/>tured the loſs of my precious ſoul theſe many years? how comes it to paſs that God ſhould take more care of my ſoul, then my ſelf? Oh God for bid that I ſhould neglect this any lon<g ref="char:EOLhyphen"/>ger? <hi>Muſt I turn, or dye?</hi> Oh happy day! oh happy hour that is that's leſt me to Re<g ref="char:EOLhyphen"/>pent in! Now will I ſet on a reſolution to get aſſurance of my ſalvution, <hi>before I give any ſleep to my eyes, or ſlumber to my eye lids.</hi> By the grace of God Ile reſolve pre<g ref="char:EOLhyphen"/>ſently to turn, and to forſake my former cour<g ref="char:EOLhyphen"/>ſes, and give my ſelf up to goioance of the Lord God. Shall the Lord be thus compaſſionate to my poor Soul as to delight in my Salvation? And ſhall I Miſerable Wretch delight in my Damnation? ſhall God ſay unto me, turn? and ſhall I not re<g ref="char:EOLhyphen"/>ſolve to turn.</p>
+            <p n="1">
+               <pb n="6" facs="tcp:33561:4"/> 1. Conſider firſt. That it is the invio<g ref="char:EOLhyphen"/>lable and unchangeable Law of God, that wicked men muſt turn or dye. <hi>Romans 8.8.</hi> Now, <hi>if any man be in the fleſh, he cannot pleaſe God.</hi> Pſal. <hi>11.5. The Lord loveth the righteous, but the wicked his ſoul ha<g ref="char:EOLhyphen"/>teth.</hi> Pſal. <hi>7.16. The wicked ſhall be tur<g ref="char:EOLhyphen"/>ned into hell, and all the Nations that forget God.</hi> Theſe Texts are plain enough to the view of every poor ſoule; If thou art one that believeſt, here is enough to ſatisfie thée, that wicked and ungodly men they muſt ei<g ref="char:EOLhyphen"/>ther turn or dye; be converted or condemned; if you ſée not, 'its becauſe you are wilfully blind: To what purpoſe doth God ſend his Meſſengers to warn you? if you will not be<g ref="char:EOLhyphen"/>liede God by the mouth of his Prophets, who doth intreat you to vs reconciled, yet you lend the deaf ear to them; Yet let me tell you, if you will not hear the voice of God here pronouncing ſentence of Salvation to you, yet you ſhall hear his voyce pronoun<g ref="char:EOLhyphen"/>cing the Sentence of condemnation againſt you hereafter.</p>
+            <p>I beſéech you therefore as you love your ſouls, not to quarrell with God and his word, but ſtoop to it. Are you yet unconverted? know this, that ers long you muſt be con<g ref="char:EOLhyphen"/>verted or elſe condemned. I beſéech you
+<pb n="7" facs="tcp:33561:4"/>therefore neglect not your own happineſſe any longer, leaſt you be guilte of your own blood, Read but the <hi>8.</hi> verſe of this <hi>33.</hi> of <hi>Ezekiel,</hi> and you ſhall ſée how the caſe ſtands; When I ſay to the wicked, <hi>wicked man thou ſhalt ſurely dye.</hi> If thou doſt not ſpeak to warn the wicked man of his way, the wicked man ſhall die in his iniquity, but his blood wil I require at thy hands. You ſée there that the Miniſters of the Goſpel muſt preach. and you muſt hear; and let me tell you, it is eaſter to hear of hell then féell it, and yet though you think it a unwelcome Doctrine, that the Miniſters of the Goſpell ſhould galt your tender ears with truths that ſéeme ſo harſh and grievous: Yet it is the duty of e<g ref="char:EOLhyphen"/>very faithfull Miniſter of Chriſt, to deal tru<g ref="char:EOLhyphen"/>ly and faithfully with ſouls; for we ſhall in no wiſe eſcaps, <hi>unleſſe we ſtrive to enter in at the narrow way which leadeth unto life:</hi> For Salvation or Condemnation will ſud<g ref="char:EOLhyphen"/>denly bring all things to an end; and when it is too late, we ſhall here ſome crying out (What have I done? what fooliſh courſes have I taken? upon what low accounts have I ventured the eternall welfare of my poore ſoul? would I had but conſidered this a little before? but alas now it is too late, the Sen<g ref="char:EOLhyphen"/>tence is paſt, and I am hurryed into ever<g ref="char:EOLhyphen"/>laſting
+<pb n="8" facs="tcp:33561:5"/>deſtruction.) <hi>Conſider this all you that forget God;</hi> That your day of pleaſure will laſt but a little while; your Laughing will be turned to Mourning: your Ioy to anguiſh, your ſmall and ſhort pleaſure here will be turned to eternall pains and torments hereafier.</p>
+            <p n="2">
+               <hi>2.</hi> Conſider this all ye wicked and ungod<g ref="char:EOLhyphen"/>ly ſinners, that if you will but yet unfain<g ref="char:EOLhyphen"/>edly turn to God, it is his promiſe that you ſhall live and not dye. The Lord profeſſeth <hi>that he takes no delight in the death of a ſinner, he had rather they would turn and live.</hi> God doth not ſhut up the door of mer<g ref="char:EOLhyphen"/>cy againſt you, but you ſhut it againſt your ſelves: mercy ſtaies for you; patiently waits for you, yea Chriſt himſelf waits for you: Oh how happy might you be, if you would but turn to him! and if you turn not, here is a maſſenger of wrath, death to be pronoun<g ref="char:EOLhyphen"/>ced againſt you; there is a wrath that you are already under, and a death you are born under, and it is you have brought this death upon your ſelves: There is alſo another death, which is a remedileſſe death and a much greater torment then the firſt Death, and this death falls on all thoſe that are un<g ref="char:EOLhyphen"/>converted. God firſt offers you mercy, if you will turn? and to thoſe that will not turn,
+<pb n="9" facs="tcp:33561:5"/>he ſends this meſſage, that they muſt expect nothing but condemnation. If you will come at the call of Chriſt, you ſhall be converted? If you will become new creatures, God hath not a word of Damning Wrath or Death to ſpeak to you? but on the contrary, Life, and Iay, and Peace, Heaven and happineſs: the oldeſt ſinner, the worſt ſinner of you all, if he will but turn, he ſhall have Mercy and Sal<g ref="char:EOLhyphen"/>vation. Oh then if you love your Sovles turn! build on Chriſt the Rock and New Foundation, Learn to mortifie the fleſh <hi>and live after the Spirt.</hi>
+            </p>
+            <p>If you will but turn, and come into a way of mercy, the Lord will be ready to enter<g ref="char:EOLhyphen"/>tain you. If you truſt in God for Salvation, he is ingaged by his promiſe to ſave you.</p>
+            <p>The Lord will be a Father to none but his children; he will ſave none but thoſe that for<g ref="char:EOLhyphen"/>ſake the world, the fleſh, and the Divel, and that come into his family, to be members of his Sonne, and have communion with his Saints. But if they come not to Chriſt, and are condemned, 'tis long of themſelves, for Gods doors are open, and he is ſtill ready to receive you if you turn to him with all your heart, <hi>for his promiſes are yea and Amen,</hi> and he will not fail in the leaſt titils of what he hath ſaid; if you repent, you ſhall be ſaved;
+<pb n="10" facs="tcp:33561:6"/>and if he hath ſaid, they that repent not ſhal be damned, his word ſhall be fulfilled; <hi>For God is truth, and in him there is no lye.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> Conſider this, That God taketh de<g ref="char:EOLhyphen"/>light in mens Salvation, but not in their Damnation; <hi>He had rather they would turn and live, then go on in ſin and dye:</hi> the converſion of ſinners is the delight of his ſoul, yet that Iuſtice might be executed, and his Truth fully vindicated; God is reſolved, if you will not be converted you ſhall be con<g ref="char:EOLhyphen"/>demned; Yet God is ſo far your friend and againſt your Condemnation, as he beféech<g ref="char:EOLhyphen"/>eth you to be recontiled; warns you of the donger you lye in; ſets before you Life and Death, and deſtres you to accept of his mer<g ref="char:EOLhyphen"/>cies, and not to damn your own ſouls; but if this will not do, then he is reſolved on your Condemnation, and commands his Prophets to ſay unto you theſe words <hi>(O wicked man thou ſhalt ſurely dye!)</hi> It is in rain for you to look for heaven, or to hope for it, for it can never be while you remain in this unconverted, dark and dead conditi<g ref="char:EOLhyphen"/>on for in this ſtate you are his enemies by nature. Yet for all this, <hi>the Lord taketh pltaſure in the converſion of his enemies:</hi> F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or if God had rather you were Damned then Saved, he would not then ſo much in<g ref="char:EOLhyphen"/>treat
+<pb n="11" facs="tcp:33561:6"/>you by his daily kindneſſes, by giving you all the means of this life to lead you to Repentance; he would not ſet ſo many Ex<g ref="char:EOLhyphen"/>amples before your Eyes, no nor wait on you ſo patiently as he doth from day to day, from year to year; theſe be not ſignes of one that taketh pleaſure in your death.</p>
+            <p>If it had béen his delight to have ſéen you go to Hell, how eaſily could he have done it long agoe? how eaſtly before this time could he have catched thée away in thy ſins, with a Curſe, or an Oath, or a Lye in thy mouth in thy Pride in thy Drunkenneſs, in thy deriding the wayes of God? how eaſt<g ref="char:EOLhyphen"/>ly could he have ſtopped thy breath, or ta<g ref="char:EOLhyphen"/>med thée with his Plagues, and made thée ſober in another world? how eaſie a matter is it for God to rule the ſongue of the Pro<g ref="char:EOLhyphen"/>phaneſt Rayler? tye the hands of the moſt Malieious perſecutor; God can make them know that they are but Worms: If God ſhould but frown upon any ſinner how ſoon would he drop into the Gave?</p>
+            <p>If God ſhould give Commiſſion to Angels to go and deſtroy ten thouſand ſinners, it would quickly be done? how <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſtly can God ſnatch ſinners away in a moment, and ſet them before his Dreadful Majeſty, where he ſhall ſée ten thouſand times ten thouſand glo<g ref="char:EOLhyphen"/>rious
+<pb n="12" facs="tcp:33561:7"/>Angels waiting at his Throne, and thou at the Bar pleading thy cauſe. Should then a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k thée theſe words (What haſt thou now to ſay againſt thy Creator? his Truth, his Servants or his holy wayes; now plead thy cauſe, what canſt thou ſay in excuſe of thy ſins? now give an account to thy Maker of thy life, of thy time, and of all the mer<g ref="char:EOLhyphen"/>ci<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thou haſt had,) Oh how would thy ſtub<g ref="char:EOLhyphen"/>born ſoul have melted, thy proud looks have been beaten down, thy ſtont and proud words turned into ſpéechleſs ſilence. A word of his mouth would take thée off this preſent life; If he ſhould ſay unto thée, live no longer? or l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve in hell, tho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> couldſt not diſobey? what canſt thou ſay? doth the Lord take pleaſure in thy death? ſurely he doth not. If he did, he would not, he could not have given his Son to redeem us from death. Ch<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſt then would not have ſweated crops of blood for us had be taken pleaſure in our death, he would not have béen ſo long in faſtings, pray<g ref="char:EOLhyphen"/>ing all night; not her would he have ſuffer<g ref="char:EOLhyphen"/>ed his bitter and curſed death upon the Croſs, pouring out his ſoul a Sacrifice for our ſins, if <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e had delighted in our death. If you had but heard Chriſt bemoaning the eſtate of diſ<g ref="char:EOLhyphen"/>obedient and impenitent people, in <hi>Matth.</hi> the <hi>23.</hi> and <hi>27</hi> verſe. <hi>Oh Jeruſalem, Jeru<g ref="char:EOLhyphen"/>ſalem,
+<pb n="13" facs="tcp:33561:7"/>how oft would I have gathered thee as a Hen gathereth her Chickens, but yee would not.</hi> If you had heard Chriſt on the Croſs praying for his perſecutors, <hi>(Fa<g ref="char:EOLhyphen"/>ther forgive them, they know not what they doe)</hi> would you thought he had delighted in the death of the wickd. If you will not be<g ref="char:EOLhyphen"/>lieve this, you have the Word and the Oath of the Lord for it, and dare you queſtion the Word of God, or the Oath of God: for God hath ſworn that his pleaſure is not in their Death, but in their Life, as in <hi>He<g ref="char:EOLhyphen"/>brews 6.13 16 17, 18,</hi> verſes.</p>
+            <p>Be intreated therefore, oh thou unconver<g ref="char:EOLhyphen"/>ted ſinner that heareſt theſe words, to pon<g ref="char:EOLhyphen"/>der a little with thy ſelf, who it is that taketh pleaſure in thy damnation: Certainly it is not God <hi>he hath ſworn he takes no pleaſure in it.</hi> You dare not ſay you ſwear, and curſe, and lye, and blaſpheme, and drink, and dee all this to pleaſe God: neither doe any that bare the image of God, take pleaſure in your death: God known it is ſmall pleaſure unto his ſervants the Miniſters of the Goſpell to ſée how madly you venture your Eternall E<g ref="char:EOLhyphen"/>ſtate, and how wilfully you run into the ve<g ref="char:EOLhyphen"/>ry flames of Hell.</p>
+            <p>'Its ſmall pleaſure for any of the ſer<g ref="char:EOLhyphen"/>vants of God for to ſée your careleſneſſe
+<pb n="14" facs="tcp:33561:8"/>in the wayes of God. Who is it than that takes pleaſure in your death? none but the thrée deadly Enemies of your Soules, the World, the Fleſh, and the Devill.</p>
+            <p>The Divell takes pleaſure in your ſinne and death and you cannot pleaſe him better then to ſée you run into all manner of un<g ref="char:EOLhyphen"/>cleauneſſe, to ſée you Drunk, to hear you Curſe, and Swear, and Lye, this is his delight. It is the delight alſo of wicked men, and it is pleaſing to your fleſh; It is the fleſh that would be pampered, that delights in Sports, in Luſt, in Ioleneſs, this is the God you ſerve.</p>
+            <p>Oh wretched Sinners! Oh miſerable undone Souls! ſhould the Fleſh be pleaſed before your Maker? will you diſpleaſe the Lord, to pleaſe your brut<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh Appetites? Is not God worthy to rule the fleſh? if he ſhall not rule it, he will not ſave it? then what win become of it? I fear it is prepa<g ref="char:EOLhyphen"/>ring for its own Diſpleaſure. Doeſt thou love ſtrong Drink, and ſwéet Morfels, and thy Eaſe, and Sports, and to be ſome body in the World? But doe you love the Curſe of God with it? Do you love to ſtand trem<g ref="char:EOLhyphen"/>bling at the Bar of God, and to be judged to everlaſting fire, and to be tormented with Devils for over: Are thy pleaſures here on
+<pb n="15" facs="tcp:33561:8"/>Earth which endures but for a time, worth the ſuffering of Eternall fire.</p>
+            <p>Conſider theſe before you go any further, which I am ſure every man hath reaſon to conſider, that hath a ſoul to ſav<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or loſe.</p>
+            <p>Therefore if you will go on and dye, rather then turn and live: Remember it was not to pleaſe God, but the De<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill, the World, and the Fleſh; And if men will damn them<g ref="char:EOLhyphen"/>ſelves to pleaſe themſelves, and run into endleſſe torments for delight, and have not the<g ref="char:cmbAbbrStroke">̄</g> wit, nor grace to bearken unto God or man that would reclaim them, what reme<g ref="char:EOLhyphen"/>dy, but they muſt take what they get.</p>
+            <p n="4">
+               <hi>4</hi> Conſider this alſo, That ſhe Lord hath quit himſelf of the death of ſinners; It they are condemned, it is long of themſelves, they dye, becauſe they will dye. Oh unpro<g ref="char:EOLhyphen"/>fitable, rebellions Children, that will not bear the voice of their Father. May not God ſay to you as he ſaid concerning his unprofi<g ref="char:EOLhyphen"/>table Vine-pard, <hi>Iſa. 5. Chap. and 1, 2, 3, 4, verſes, Judge <hi>I</hi> pray betwixt me and my Vine-yard: What could I have done more that I have not done in it?</hi> I planted it in a fruitfull Soyl, I fenced it and gathered out the ſtones, and ſet the choyſeſt Vines, yet it will not grow and bring forth fruit. Th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> may God ſay, and lament over <hi>England.</hi>
+               <pb n="16" facs="tcp:33561:9"/>Oh unprofitable <hi>England,</hi> what ſhall I doe with you? I have planted you a glorious Church; I have watered you with the dew of the glorious Goſpel; I have made you Men, and enoued you with Reaſon, I have given you a Righteous Perfect Law, and you have broken it; you have deſpiſed my Goſpell, you have undone your Soules: may not God in Iuſtice take the Light of his Goſpell from us, and give it unto o<g ref="char:EOLhyphen"/>thers that may make better improvement of it, to his Honour and their eternall wel<g ref="char:EOLhyphen"/>fare. <hi>What could God have done more then he hath dohe for us?</hi> Hath be not wai<g ref="char:EOLhyphen"/>ted long on us? hath he not intreated us to turn by the mouth of his faithfull Miniſters? hath not his Holy Spirit béen often ſtirring with our hearts, and ſaying to our Soules, (<hi>turn, turn, ſinner, whether art thou go<g ref="char:EOLhyphen"/>ing?</hi> What art thou doing? Doeſt thou know what will be the end? How long wilt thou hate thy friends, and love thy Enemies? when wilt thou deliver up thy ſelf unto God, and give Chriſt Ieſus thy Redéemer full poſſeſſion of thy Souls? When ſhall that once he?) Hath not the Spirit thus plead<g ref="char:EOLhyphen"/>ed with thée? hath not Life béen ſet before you, and the Ioyes of Heaven? And hath not the certainty of the everlaſting torments
+<pb n="17" facs="tcp:33561:9"/>of the Damned béen declared to you. If you dye now, it is becauſe you will dye: <hi>You will not have this Man to raign over you,</hi> Luke the <hi>19.</hi> Chapter, and the <hi>14.</hi> verſe.</p>
+            <p>O you fooliſh people, and unwiſe, <hi>Why do you requite the Lord thus?</hi> Iſaiah <hi>1.2, 3, 4.</hi> verſes. Why doe you forſake the Lord for nothing? why doe you neglect Eternall Life, to hunt after the Chaff and Feathers of this World? <hi>Wherefore doe you ſpend your money for that which is not bread, and your labour for that which profiteth not.</hi> Iſaiah <hi>55.</hi> Chapter, <hi>1, 2, 3.</hi> verſes. Awake now and ſée your own folly; <hi>Seek the Lord while he may be found: Call upon him while he is neere.</hi> It is the Lords promiſe, <hi>If the wicked man will forſake his evill way, and the un<g ref="char:EOLhyphen"/>righteous man his thoughts, and turn to the Lord, he will have mercy on him, and to our God, and he will abundantly par<g ref="char:EOLhyphen"/>don.</hi> The Divell cannot pardon ſin, no, it is in Gods power only: And as it is in his power only to pardon, ſo he hath a wilt to pardon, for oft hath he proclaimed his frée invitations, to poor ſinners. <hi>Revelati<g ref="char:EOLhyphen"/>ons</hi> the <hi>22</hi> Chapter, the <hi>17.</hi> verſe, <hi>Let him
+<pb n="18" facs="tcp:33561:10"/>that is a thirſt come, and whoſoever will, let him come and taſte of the water of life freely.</hi>
+            </p>
+            <p>Oh ſtiff: necked and uncircumciſed in hearts and ears, that thus are willing to ruine themſelves; when God hath called, you would not come: How know you how ſoon you may provols God to reſolve you ſhall not taſte of the Wedding Supper? If you dye unconverted, all the world can<g ref="char:EOLhyphen"/>not ſave you. Oh wretched ſinners! why will you be ſo cruill to your ſelves? Know you not this which is a reall truth, that you muſt turn, or burn? If you kéep your ſins, you muſt kéep the curſe of God with them: You love your Luſts, your Drunken<g ref="char:EOLhyphen"/>neſſe, your Gluttony and will not let them <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o; would you have them bring you to Heaven: If you expect that, it is impoſ<g ref="char:EOLhyphen"/>ſible; for there <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntreth none that is un<g ref="char:EOLhyphen"/>clean. <hi>Revelations 21 Chapter, 22. verſe. For what communication hath light with darkneſs? Or what concord hath Chriſt with Belial.</hi> You ſée then I hope by this time the caſe to clear, that you muſt re<g ref="char:EOLhyphen"/>ſolve to turn, or dye.</p>
+            <p>
+               <hi>Object.</hi> But you will ask me, how ſhall we turn, we have no power of our ſelves?
+<pb n="19" facs="tcp:33561:10"/>I will therefore give you a few helps by the way, before I conclude.</p>
+            <p>A Poor ſinfull ſoul that would be con<g ref="char:EOLhyphen"/>verted, and turn to the Lord, Conſider the neceſſity and nature of converſion, you muſt h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re conſider,</p>
+            <p n="1">
+               <hi>1.</hi> From what you muſt turn, that is in a word, from carnall ſelf, from the fleſh that would be pleaſed before God; from the World that is the enticing bait to alure your ſouls; from the Divell the ſecret Angler for your ſoul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and from all wilfull ſins: and then you muſt turn to God the End, and to Chriſt the way to the Father.</p>
+            <p n="2">
+               <hi>2.</hi> Help is this, Attend upon the word of God, that is the ordinary meanes to turn ſouls to God; be often in hearing, Reading, and Meditating upon the holy Scriptures.</p>
+            <p n="3">
+               <hi>3.</hi> Be ſrequent in Prayer to God, con<g ref="char:EOLhyphen"/>feſſe and lament before God your former lives, beſéech God to pardon what is paſt, and to give you his Spirit to lead you into his wayes, and beg of him to be your guide and your kéeper to ſave you from all the ſubtile temptations of the Divell, who watch: th for your ſouls.</p>
+            <p n="4">
+               <pb n="20" facs="tcp:33561:11"/> 
+               <hi>4.</hi> Give up your ſelf wholly to the Lord Ieſus Chriſt, the true Phyſitian of your ſouls. <hi>John 13.6. For there is no other Name under Heaven by which you can be ſayed. 'Tis he is the way, the truth, and the life, there is no coming to the Father but by him.</hi>
+            </p>
+            <p n="5">
+               <hi>5.</hi> If you mean to turn to Chriſt, do it believingly; truſt God with all you have; entertain no low thoughts of God: let this be upon you hearts continually; <hi>That God is able to ſave to the uttermoſt, all that come unto him by faith.</hi>
+            </p>
+            <p n="6">
+               <hi>6.</hi> And laſtly, Be ſure to neglect no time, but do it ſpéedily. <hi>To day wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le it is called to day, hear the Lords voice, and harden not your hearts:</hi> If you be not willing to turn to day, you will not be wil<g ref="char:EOLhyphen"/>ling to turn to morrow: call this to mind, that as long as you neglect this work, you are under the guilt of many thouſand ſins, and under Gods wrath, and you ſtand at the very brink of hell. Vp then preſently and fly as for your lives, for you have ſtaid too long already, and wronged God too long. For God ſake therefore turn, it not for his, oh for your own precious ſoule ſake re<g ref="char:EOLhyphen"/>ſolve to turn and live: ſtand not wavering
+<pb n="21" facs="tcp:33561:11"/>any longer, for it is not a matter of tri<g ref="char:EOLhyphen"/>fling, but of Eternall moment, for if you dye in your fine, you dye eternally, and then you are undone for ever.</p>
+            <p>Let me add one Vſe more, which ſhall be of Terror to affrighten thoſe that are not reſolved yet to turn.</p>
+            <p>
+               <hi>Uſe.</hi> You unconverted ſinfull wretches that alwayes vex the Holy-Ghoſt, <hi>as your Fathers did, ſo do you.</hi> Know aſſuredly, that the righteous God will not be mocked: For if you turn not, you ſhall ſurely dye, and be damned? its as ſure as if it were already done, at the dreadfull day of the Lords appearing: the Hills nor the Mour<g ref="char:EOLhyphen"/>tains ſhall not hide you from the preſence of the living God. Are not you one that hath neglected the tender offers of the Goſ<g ref="char:EOLhyphen"/>pell? have not you turned your backs a<g ref="char:EOLhyphen"/>gainſt God? Is it not juſt then that God ſhould turn his-back againſt you? when you call and cry unto him, have you not de<g ref="char:EOLhyphen"/>ſerv'd this ſentence to be pronounced againſt you. <hi>Go ye curſed into everlaſting burn<g ref="char:EOLhyphen"/>ings?</hi> What ſhall I ſay to you? Oh you careleſſe unregarding ſoules that wilfully run into your own deſtruction! what can you ſay when you appear before the great
+<pb n="22" facs="tcp:33561:12"/>God? can you lay the blame on him? no, you cannot, he hath left you without ex<g ref="char:EOLhyphen"/>cuſe, for he <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath done his part as to our ſal<g ref="char:EOLhyphen"/>vation, if we dy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then, it is becauſe we will <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and will be damned: Had you béen but willing to have béen ſaved: <hi>you might have lain with Lazarus in Abrahams bo<g ref="char:EOLhyphen"/>ſom,</hi> but now you muſt to the grief of all your friends, be tormented in hell with <hi>Di<g ref="char:EOLhyphen"/>ves,</hi> and ſhall not have this requeſt grant<g ref="char:EOLhyphen"/>ed you. <hi>To have one drop of water to cool your tongue:</hi> Whereas you might have injoyed heaven and happineſs after death, if converted; now you ſhall injoy nothing but hell and horror, becauſe you dye uncon<g ref="char:EOLhyphen"/>derted.</p>
+            <p>Therefore he perſwaded, all ye poor mi<g ref="char:EOLhyphen"/>ſerable ſouls that are as ſlaves of Satan, be perſwaded while you have a day of grace to turn and live, and not to go on in ſinne and dye.</p>
+            <p>Which ſhall be the daily prayers of your poor and unworthy Ser<g ref="char:EOLhyphen"/>vant for the ſake of Chriſt.</p>
+            <closer>
+               <signed>T. P.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <l>The end of all is, Sinners turn,</l>
+                  <l>Leſt in hells flames thou ever burn.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:33561:12"/>
+            <head>Courteous Reader, theſe Books following are ſold by <hi>Charles Tyus</hi> at the three Bidles on <hi>London Bridge.</hi>
+            </head>
+            <p>The wiſe Merchant, or the Pearleſs pearl by <hi>T. Calvert,</hi> Miniſter of Gods Word in the City of <hi>York.</hi>
+            </p>
+            <p>The Chriſtian Combat, or, his true ſpi<g ref="char:EOLhyphen"/>rituall warfare, by <hi>C. Love, L. M.</hi> of Gods Word in the City of <hi>London.</hi>
+            </p>
+            <p>The book of Graces, with Prayers for morning and Evening: all but three pence price.</p>
+            <p>The Sinners Warning-piece, or, Hea<g ref="char:EOLhyphen"/>vens Meſſenger, by <hi>Tho. Robins</hi> B. of D.</p>
+            <p>Mans chief Guide to Salvation, by <hi>T.R.</hi> B. of D.</p>
+            <p>The Scholars Winter Garment, or the the Garment of Righteouſneſſe, by <hi>T. R.</hi> B. of D.</p>
+            <p>A Wonder of Wonders, or Gods people the worlds wonder, by <hi>K. Hough.</hi>
+            </p>
+            <p>Englands Golden Legacy, or a brief,
+<pb facs="tcp:33561:13"/>deſcription of the mercies of God beſtow<g ref="char:EOLhyphen"/>ed upon England, by <hi>L.</hi> P.</p>
+            <p>Gods Meſſage from Heaven to Sinners on Earth. by T. P. B. of D. L.</p>
+            <p>Theſe five laſt are but pence a piece, and very ſeaſonable for theſe ſinfull times in which we live.</p>
+            <pb facs="tcp:33561:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
